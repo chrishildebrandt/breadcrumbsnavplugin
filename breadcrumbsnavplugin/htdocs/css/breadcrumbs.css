@@ -1,0 +1,14 @@
+#breadcrumbs { 
+    display: block;
+    font-size: xx-small;
+	padding-top: 5px;
+}
+ul#breadcrumbs {
+    color: #000;
+}
+ul#breadcrumbs a {
+    color: #e58579;
+}
+ul#breadcrumbs a:hover {
+    color: #f00;
+}
